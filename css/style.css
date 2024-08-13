@@ -1,0 +1,57 @@
+.redText {
+    color: #FF204E;
+}
+
+.bg-orange {
+    background-color: #ffdeb0;
+}
+
+body * {
+   
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    /* <uniquifier>: Use a unique and descriptive class name */
+    /* <weight>: Use a value from 100 to 900 */
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#short_name {
+    font-family: "Sacramento", cursive;
+    font-style: normal;
+    text-align: right;
+}
+
+.card-header {
+    font-weight: 600;
+    font-size: 1.5rem;
+}
+
+.about .title {
+    font-weight: 700;
+}
+
+.about .subtitle {
+    font-style: italic;
+    font-weight: 100;
+}
+
+.about .period {
+    float: right;
+}
+
+.skill-logo {
+    max-height: 100px;
+    max-width: 100%;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bg-gray {
+    background-color: rgb(249, 249, 249);
+}
